@@ -27,7 +27,6 @@ public class Sudoku extends JFrame implements Runnable, MouseListener, MouseMoti
     private final boolean[][][] candidates;
     private int xSelected, ySelected;
     private boolean win;
-
     private final boolean showCandidates;
     private final boolean highlightCandidates;
     private final int iterationsPerUpdate;
