@@ -1,5 +1,4 @@
-# Sudoku Solver
-For this project, I designed an algorithm to solve sudoku puzzles using the Java programming language. This sudoku solver is able to solve puzzles of any range of difficulty, even solving some of the sudoku puzzles considered to be the most challenging.
+Play a game of sudoku. This is also a sudoku solver that is able to solve puzzles of any range of difficulty, even solving some of the sudoku puzzles widely considered to be the most challenging.
 
-<img width="400" alt="Screenshot 2024-01-03 at 8 25 26 AM" src="https://github.com/caseyhild/Sudoku-Solver/assets/44584719/5873e9ba-09ef-4c87-b5cd-f2e14ca0e590">
-<img width="400" alt="Screenshot 2024-01-03 at 8 25 39 AM" src="https://github.com/caseyhild/Sudoku-Solver/assets/44584719/225d617a-5371-44de-9c5a-220e9e1e5747">
+<img width="549" height="548" alt="Screenshot 2025-09-14 at 2 44 08 AM" src="https://github.com/user-attachments/assets/e7baed43-9833-4323-9bc5-22ecf0a6fd59" />
+<img width="549" height="548" alt="Screenshot 2025-09-14 at 2 43 56 AM" src="https://github.com/user-attachments/assets/fb84a15d-6022-4e47-83a3-ab5c910e98ee" />
