@@ -1,4 +1,6 @@
-Play a game of sudoku. This is also a sudoku solver that is able to solve puzzles of any range of difficulty, even solving some of the sudoku puzzles widely considered to be the most challenging.
+# Sudoku
+
+Play a game of Sudoku. This is also a sudoku solver that is able to solve puzzles of any range of difficulty, even solving some of the sudoku puzzles widely considered to be the most challenging.
 
 <img width="410" alt="Screenshot 2025-09-14 at 2 43 56 AM" src="https://github.com/user-attachments/assets/fb84a15d-6022-4e47-83a3-ab5c910e98ee" />
 <img width="410" alt="Screenshot 2025-09-14 at 2 44 08 AM" src="https://github.com/user-attachments/assets/e7baed43-9833-4323-9bc5-22ecf0a6fd59" />
